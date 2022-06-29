@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react';import { capitalizeFirstLetter } from "../../utils/helpers";
 
 const categories = [
   {
